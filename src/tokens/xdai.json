@@ -24,7 +24,7 @@
         "logoURI": ""
     },
     {
-        "name": "ChainLink Token on xDai",
+        "name": "ChainLink on xDai",
         "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
         "symbol": "LINK",
         "decimals": 18,
@@ -40,7 +40,7 @@
         "logoURI": ""
     },
     {
-        "name": "Stake Token on xDai",
+        "name": "Stake on xDai",
         "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
         "symbol": "STAKE",
         "decimals": 18,
