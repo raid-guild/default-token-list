@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 42,
     "logoURI": ""
+  },
+  {
+    "name": "Stake",
+    "address": "0x1278571f79B3a4245A0865CbF9b24cAE15Aa2938",
+    "symbol": "STAKE",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": ""
   }
 ]
