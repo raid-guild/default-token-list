@@ -752,7 +752,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x42d6622deCe394b54999Fbd73D108123806f6a18/logo.png"
   },
   {
-    "name": "STAKE",
+    "name": "Stake",
     "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
     "symbol": "STAKE",
     "decimals": 18,
