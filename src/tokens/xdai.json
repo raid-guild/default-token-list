@@ -48,14 +48,6 @@
         "logoURI": ""
     },
     {
-        "name": "Tether (USDT) on xDai",
-        "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
-        "symbol": "USDT",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": ""
-    },
-    {
         "name": "yCurve on xDai",
         "address": "0x22Bd2A732b39dACe37AE7E8f50A186f3D9702e87",
         "symbol": "yCRV",
@@ -91,14 +83,6 @@
         "name": "Gnosis on xDai",
         "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
         "symbol": "GNO",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": ""
-    },
-    {
-        "name": "OWL Token on xDai",
-        "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
-        "symbol": "OWL",
         "decimals": 18,
         "chainId": 100,
         "logoURI": ""
@@ -147,6 +131,14 @@
         "name": "JOON on xDai",
         "address": "0x5fE9885226677F3Eb5C9ad8aB6c421B4EA38535d",
         "symbol": "JOON",
+        "decimals": 4,
+        "chainId": 100,
+        "logoURI": ""
+    },
+    {
+        "name": "OWL Token on xDai", // OVERRIDDEN AND IMP. DO NOT REMOVE
+        "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
+        "symbol": "OWL",
         "decimals": 18,
         "chainId": 100,
         "logoURI": ""
