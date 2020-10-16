@@ -136,7 +136,7 @@
         "logoURI": ""
     },
     {
-        "name": "OWL Token on xDai", // OVERRIDDEN AND IMP. DO NOT REMOVE
+        "name": "OWL Token on xDai",
         "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
         "symbol": "OWL",
         "decimals": 18,
