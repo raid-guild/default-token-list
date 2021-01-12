@@ -5,7 +5,7 @@
         "symbol": "WETH",
         "decimals": 18,
         "chainId": 42,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/bockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
     },
     {
         "name": "Dai Stablecoin",
@@ -13,7 +13,7 @@
         "symbol": "DAI",
         "decimals": 18,
         "chainId": 42,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/bockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
     },
     {
         "name": "Maker",
@@ -21,15 +21,7 @@
         "symbol": "MKR",
         "decimals": 18,
         "chainId": 42,
-        "logoURI": ""
-    },
-    {
-        "name": "FaucetToken",
-        "address": "0xfab46e002bbf0b4509813474841e0716e6730136",
-        "symbol": "FAU",
-        "decimals": 18,
-        "chainId": 42,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/bockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png"
     },
     {
         "name": "Stake",
@@ -37,7 +29,7 @@
         "symbol": "STAKE",
         "decimals": 18,
         "chainId": 42,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
     },
     {
         "name": "Uniswap",
